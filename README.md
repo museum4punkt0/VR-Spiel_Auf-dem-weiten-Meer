@@ -1,4 +1,5 @@
-# Ena Wasawasa Levu: On the open sea
+# Ena wasawasa levu. Auf dem weiten Meer
+(en: Ena wasawasa levu. On the Open Sea)
 
 A VR project of the Staatliche Museen zu Berlin - Preußischer Kulturbesitz in the context of museum4punkt0 for the Ethnological Museum of Berlin in the Humboldt Forum.
 
@@ -11,7 +12,7 @@ The project museum4punkt0 is funded by the Federal Government Commissioner for C
 The project produces a Windows application contained in an installer
 that enables setting up the application for auto-start after booting the PC.  
 
-**This file documents the *Ena Wasawasa Levu: On the open sea* project for developers and system administrators. It is not a manual for end users or museum hosts.**
+**This file documents the *Ena wasawasa levu. On the Open Sea* project for developers and system administrators. It is not a manual for end users or museum hosts.**
 
 For end users or museum hosts, see the manual.
 
