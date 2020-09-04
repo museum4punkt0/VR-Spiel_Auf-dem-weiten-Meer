@@ -1,0 +1,37 @@
+# Directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Rr]ecordings/
+
+# Code editors
+.idea
+.vs
+.vscode
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+
+# Binary products
+*.lib
+*.obj
+*.exe
+*.app
+
+# meta files in StreamingAssets, because nobody needs them
+VR-Navigation/Assets/StreamingAssets/**/*.meta
+
+# Non-distributable stuff
+VR-Navigation/Assets/AmplifyShaderEditor/
+VR-Navigation/Assets/AmplifyShaderEditor.meta
+VR-Navigation/Assets/Bird Flocks/**
+!VR-Navigation/Assets/Bird Flocks/InstallHere.txt
+VR-Navigation/Assets/BOXOPHOBIC/**
+!VR-Navigation/Assets/BOXOPHOBIC/InstallHere.txt
+VR-Navigation/Assets/Curvy Splines/**
+!VR-Navigation/Assets/Curvy Splines/InstallHere.txt

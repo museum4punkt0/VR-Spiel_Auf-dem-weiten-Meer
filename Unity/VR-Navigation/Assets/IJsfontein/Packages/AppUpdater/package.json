@@ -1,0 +1,8 @@
+{
+    "name": "nl.ijsfontein.appupdater",
+    "displayName": "IJsfontein App Updater",
+    "version": "1.0.3",
+    "unity": "2018.3",
+    "description": "Adds update functionality to Windows executables",
+    "dependencies": {  }
+}

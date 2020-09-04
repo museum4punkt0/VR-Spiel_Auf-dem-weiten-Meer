@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Turtle
+  m_Shader: {fileID: 4800000, guid: 3c69edcfd623c0441add1931bc972985, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DrawingTex:
+        m_Texture: {fileID: 2800000, guid: d239f476d7f48bf4bb40fa5093cab0d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: 41eac93c5ee3144ccb92d4dbbdadb1ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _QuestionMarkTex:
+        m_Texture: {fileID: 2800000, guid: 5106b231b1c0b4cf68c5bba6d0219741, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 433f34449cdfb4f85a8b508f02ff0349, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amplitude: 0
+    - _AmplitudeVal: 0.02
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DarkOpacity: 0.187
+    - _DetailNormalMapScale: 1
+    - _Distribution: -300
+    - _DrawingOpacity: 0.878
+    - _DstBlend: 0
+    - _Falloff: 0.98
+    - _Float0: 0
+    - _Float1: 0.953
+    - _Float2: 0.381
+    - _Float3: 20
+    - _Float4: 0.456
+    - _FresnelBiasVal: 1
+    - _FresnelPowerVal: 1.6
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _MaskAxis: 1
+    - _MaskMax: 1.77
+    - _MaskMin: 18.3
+    - _MaskType: 0
+    - _MaskTypee: 0
+    - _MaskTypeeEnd: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseSizeVal: 2.3
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _QuickMaskk: 0
+    - _ShadowOffset: 0.13
+    - _ShadowSharpness: 1.38
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 1.96
+    - _SpeedVal: 1
+    - _SrcBlend: 1
+    - _StartPoint: -1483.79
+    - _TimeScale: 1
+    - _Togg: 0
+    - _ToggleGlobalVisibility: 0
+    - _ToggleSwitch0: 0
+    - _ToggleVi: 0
+    - _ToggleVisibil: 0
+    - _ToggleVisibili: 0
+    - _ToggleVisibility: 0
+    - _ToggleVisibilt: 0
+    - _ToggleVisiv: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlbedoCol: {r: 0.62971693, g: 0.7917675, b: 0.8396226, a: 0}
+    - _AlbedoCol2: {r: 0.95283014, g: 0.95283014, b: 0.95283014, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0.7122642, g: 0.74757046, b: 1, a: 0}
+    - _Color1: {r: 0, g: 0.009483099, b: 0.4056603, a: 0}
+    - _DarkCol: {r: 0.6698113, g: 0.24328029, b: 0.29472676, a: 0}
+    - _DrawingCo: {r: 0.7122642, g: 0.74757046, b: 1, a: 0}
+    - _DrawingCol: {r: 1, g: 0.9885704, b: 0.9575471, a: 0}
+    - _EmissionCol: {r: 0.7122642, g: 0.74757046, b: 1, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LightCol: {r: 1, g: 1, b: 1, a: 0}
+    - _ShadowCol: {r: 0.58775365, g: 0.8714681, b: 0.9811321, a: 0}

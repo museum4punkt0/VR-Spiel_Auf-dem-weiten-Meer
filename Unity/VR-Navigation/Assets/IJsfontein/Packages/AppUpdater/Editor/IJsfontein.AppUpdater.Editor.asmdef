@@ -1,0 +1,16 @@
+{
+    "name": "IJsfontein.AppUpdater.Editor",
+    "references": [
+        "IJsfontein.AppUpdater"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

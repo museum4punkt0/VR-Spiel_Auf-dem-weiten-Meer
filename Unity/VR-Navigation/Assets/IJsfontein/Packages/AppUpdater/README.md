@@ -1,0 +1,1 @@
+This allows for self-updating Unity applications on Windows

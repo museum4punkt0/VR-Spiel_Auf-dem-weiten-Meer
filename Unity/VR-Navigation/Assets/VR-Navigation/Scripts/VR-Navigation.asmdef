@@ -1,0 +1,21 @@
+{
+    "name": "VR-Navigation",
+    "references": [
+        "GUID:1fbf338ef6b952a448262a7ff7df5fe4",
+        "GUID:825ea882e572824449d16d64668df9cc",
+        "GUID:29c659076df304a4b9b9c493438d9f78",
+        "GUID:e4eb34b425ed2480db206fd8e833728d",
+        "GUID:559eccf910ea01247b71415b5a2365b8",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:2543abbdb051a714d963e4d15df88907",
+        "GUID:18002a182b9bb4d488ba4f240c2438ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

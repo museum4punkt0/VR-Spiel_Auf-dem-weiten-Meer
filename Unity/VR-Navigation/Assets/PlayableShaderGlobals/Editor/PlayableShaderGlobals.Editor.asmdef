@@ -1,0 +1,16 @@
+{
+    "name": "PlayableShaderGlobals.Editor",
+    "references": [
+        "GUID:18002a182b9bb4d488ba4f240c2438ad"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

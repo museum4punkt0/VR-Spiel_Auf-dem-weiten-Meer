@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe434fbf113f43ddaa95ac3a6d1211c, type: 3}
+  m_Name: Turtle Audio Library
+  m_EditorClassIdentifier: 
+  clips:
+  - name: First Checkpoint (T_C_3b)
+    guid: ae543675-d261-4fe2-8314-b325427be556
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 13ed4c53bf1454a76852fdd7550f2b7a, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 1e9222e4495494c269531f3d4f2d4c86, type: 3}
+    mode: 0
+  - name: AwardsOnSail
+    guid: c59f5f09-824a-475e-a75a-afab1e91b924
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 1799659ea459843229e11fbb95153d50, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 82c2fe3bbfe8e48b3a0c56b0b6590e52, type: 3}
+    mode: 0
+  - name: WatchOut-Reef (T_H_2)
+    guid: b94ad2fd-8ff8-4c1e-8356-2b09d7eeaf03
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: b88363cc1e1e84dd0bba70d1b394d2e4, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: f29846aa5641a4c659c8650ce0c4abce, type: 3}
+    mode: 0
+  - name: FoundSun (N_1_C_2)
+    guid: 50465548-8fbd-4e89-b97d-db523e6dd1d4
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 99534f06a410f419f83038121cb9b1da, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 6dcf395854ac04d40a0cc9c470544372, type: 3}
+    mode: 0
+  - name: Now Sail West! (N1C3)
+    guid: 1c4498dc-a57e-471c-8988-58f9f324e8d2
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 3c35884c4a1c94c0790ebd97a8d17acb, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 2b882f923d0684144b859397a4640565, type: 3}
+    mode: 0
+  - name: Found First Star (N2H13)
+    guid: c322444e-b8bf-4154-ad91-7d56779892cd
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: c8e2752cd3a694614b9e7cc00d40c204, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: cd68b054033b34b3b98a896a90be1dc3, type: 3}
+    mode: 0
+  - name: Found Second Star (N2H13b)
+    guid: 3ca09ad0-eb9c-43e0-8c04-3410ef4c9082
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: d45276f62f2f245e989d630e98b96983, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 747ca0a45cfb345b7b0e56e665702155, type: 3}
+    mode: 0
+  - name: Found Third Star (N2H13c)
+    guid: 12953090-2088-41b4-a3d5-64d516dc2442
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 6519e152d42f9442bbf097b355d3ba00, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 452f179e8d2f34a10b9aa75a01a66c53, type: 3}
+    mode: 0
+  - name: Found Last Star (N2C2)
+    guid: b01458e9-9248-4ac6-896a-60f744968802
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: e80e01f9dc6694932a162c4fcbe25f4c, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 2d367545198cd4174904cd94530848be, type: 3}
+    mode: 0
+  - name: Wrong Star (N2H14)
+    guid: 619eaed2-0b75-4b5d-8f2f-42903ecfd63f
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: d05b97254bfd2418eac69a2f2135d930, type: 3}
+      - {fileID: 8300000, guid: caf7aee5bbce84ed093086322e0cab0a, type: 3}
+      - {fileID: 8300000, guid: a4fe04921455e465588defd7b8e212c9, type: 3}
+      - {fileID: 8300000, guid: 64851bbda2c769740a89a8ee8fd7a9ee, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 1e1c2bf30d0164dc1979f634c95918d6, type: 3}
+      - {fileID: 8300000, guid: 895bebb548b9d4d9fb587b5a3178064d, type: 3}
+      - {fileID: 8300000, guid: 06b925f745dc741918cc4463dab2d70b, type: 3}
+      - {fileID: 8300000, guid: f1e02c3ec1d464258b6a87a096685b7e, type: 3}
+    mode: 1
+  - name: Sail South Call (N2C3)
+    guid: 2be20181-bb72-48ad-8f3f-df49a0dea5aa
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 5f68e000dc8154bd9a884ae9f6e50984, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 7730fe569cdac43508c83450399a24c5, type: 3}
+    mode: 0
+  - name: Correct cloud (N3C2)
+    guid: e84055f0-7f3b-476f-98ff-86ae91e72cd9
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 2b0d0ecf5c1694014b2ff712ed169ee3, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: e716bf85f029c4bb99daf91bb4c68d23, type: 3}
+    mode: 0
+  - name: Wrong Cloud (N3H13)
+    guid: 459139f0-e626-4ee2-8acc-7becfb411f1d
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 7275792c3d7944eeaa58321f343e0a2b, type: 3}
+      - {fileID: 8300000, guid: 54882aa92d5d64aaab18194046a77605, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: bd9b994cce7ab472fbaa98aad6d1b497, type: 3}
+      - {fileID: 8300000, guid: fb8d1382d812d4313ade6f4321785abf, type: 3}
+    mode: 1
+  - name: Wrong Bird (N4H13)
+    guid: 1ae6aa54-6c16-4216-be31-8665b504449b
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: a28a7f02985f64f1a9dbcf618730d558, type: 3}
+      - {fileID: 8300000, guid: b671d4769cded4e86b8cd1de3c1d81cd, type: 3}
+      - {fileID: 8300000, guid: 2d24b2eebd5894e8996e191b62218c3a, type: 3}
+      - {fileID: 8300000, guid: f01ec55e3ed6849408161f71af2824be, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 6781896fee9d4461aa4c43549b60f245, type: 3}
+      - {fileID: 8300000, guid: 93e738c46a2e34607aef720fdb6002ef, type: 3}
+      - {fileID: 8300000, guid: 3d4747a0aa32f4ea6aa1deb90f011c30, type: 3}
+      - {fileID: 8300000, guid: 1ad3d147a42704d2d9536b02d1a5ffdb, type: 3}
+    mode: 1
+  - name: Birds success (N4C2)
+    guid: 7e55f1b0-bf58-4faf-9a66-9a6583d6477b
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 409c6e5eab90c4c309474079fefce1bb, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: d12c42200c7694a608942e18fcf00457, type: 3}
+    mode: 0
+  - name: SailToCloud (N3C3)
+    guid: 98ee89e9-c704-4782-8139-d38f35168295
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: c6ea9ed801e984682bffdfd0f56f7609, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: e12081600920749e3a04c4424baf8010, type: 3}
+    mode: 0
+  - name: SailToIsland (N4C3)
+    guid: 602eb688-8a76-4ecd-b7ae-576c13cfb8de
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: cc7ef946d29144fcbbd3a08d3c09cdb1, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 3c52711065df14a018b5c44bebfaa62e, type: 3}
+    mode: 0
+  - name: WrongWay (Start)
+    guid: e3d5a919-c410-486d-bbb9-6882c309a2d0
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: ef79b4ecaf7743a49b2d66c97d3022aa, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: c90fc2e8128524c97ad210b563ec7325, type: 3}
+    mode: 0
+  - name: WrongWay (Sun)
+    guid: 43c73a16-10ed-472c-ac0a-1aa6017c77c4
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: f8957826069704427acf1cec813dca83, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 7e134aeac50a841e585c9bc45427396d, type: 3}
+    mode: 0
+  - name: WrongWay (Stars)
+    guid: 3dd82669-556e-4912-a310-a16dc4aa0658
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 73fc300eab93d48569b068e87ef30c86, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 8aaca1495a75c490da552c4a88caedb8, type: 3}
+    mode: 0
+  - name: WrongWay (Clouds)
+    guid: 199c36c0-8d05-4ec9-958f-0cbb6644d809
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 28e5c1976b92c46e2a5ae0d37a6e3308, type: 3}
+      - {fileID: 8300000, guid: c74392160a5a28a4798d6350a700c8ef, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 64556510850794ad3993388a1f6d2076, type: 3}
+      - {fileID: 8300000, guid: b0fd5deca957b47dba63817362f87ea1, type: 3}
+    mode: 0
+  - name: WrongWay (Birds)
+    guid: 0f76c9da-9329-4a9f-aa20-b1a96cf989b7
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 0a89916e44a3b4192a01500f71e0dd35, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 0ba586919714f4abca377c0ed848356a, type: 3}
+    mode: 0
+  - name: Wide Ocean
+    guid: ab81e6e6-8336-4e03-a1c7-ff4f6a44fd24
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: e056861f2c03941b59f6940cf8539566, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 6ce5aa1cb188a4c7e90372be82d92c76, type: 3}
+    mode: 0
+  - name: Seasick?
+    guid: cd46673c-0bb5-4aad-8003-922c07a574a8
+    localizedAudioClips:
+    - language: 0
+      clips:
+      - {fileID: 8300000, guid: 7d5058415959044e8af29a66a0a00b73, type: 3}
+    - language: 1
+      clips:
+      - {fileID: 8300000, guid: 6442915b7a61c41fb84d83e2fb291887, type: 3}
+    mode: 0
+  CurrentLanguage: 0

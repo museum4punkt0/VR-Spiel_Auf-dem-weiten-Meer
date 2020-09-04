@@ -1,0 +1,17 @@
+# OS generated
+.DS_Store*
+._*
+.Trashes
+[Tt]humbs.db
+
+# Generated files & directories
+TestResult*.xml
+[Bb]uilds/
+
+# Maya
+.mayaSwatches
+
+Jenkinsfile
+# Generated pdfs
+*.pdf
+!README.pdf

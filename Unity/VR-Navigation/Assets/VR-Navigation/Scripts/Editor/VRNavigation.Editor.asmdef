@@ -1,0 +1,17 @@
+{
+    "name": "VRNavigation.Editor",
+    "references": [
+        "GUID:bfc028babad48b348b5696ca3770bcfa",
+        "GUID:8a67edf073d553f45a328972b3b54d16"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

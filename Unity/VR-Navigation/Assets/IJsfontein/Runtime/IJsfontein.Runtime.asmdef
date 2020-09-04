@@ -1,0 +1,17 @@
+{
+    "name": "IJsfontein.Runtime",
+    "references": [
+        "GUID:bfc028babad48b348b5696ca3770bcfa",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e4eb34b425ed2480db206fd8e833728d",
+        "GUID:29c659076df304a4b9b9c493438d9f78"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,4 @@
+Curvy Splines
+https://assetstore.unity.com/packages/tools/level-design/curvy-splines-7038
+  
+Provides the base for spline path animations

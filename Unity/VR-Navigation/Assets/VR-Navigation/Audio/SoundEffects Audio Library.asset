@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe434fbf113f43ddaa95ac3a6d1211c, type: 3}
+  m_Name: SoundEffects Audio Library
+  m_EditorClassIdentifier: 
+  clips:
+  - name: Fog Horn
+    guid: c41b71dc-d1c0-454f-bdf9-3c989e227567
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 9f11f97ca1f123c4893329c453c95c41, type: 3}
+    mode: 0
+  - name: Ship Engine
+    guid: 93ff6b47-c134-4d1e-b7ff-c8afaf032dc2
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 9b1f4da8f61aeb44b88dc77df34aff18, type: 3}
+    mode: 0
+  - name: Speedboat
+    guid: 7ea9649d-aa34-485d-a839-efa20e4e4ea6
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 85bfffbe07ed54c068c7b84351642c55, type: 3}
+    mode: 0
+  - name: Stamp Appears
+    guid: 5a88fd55-a33d-4f87-893b-4ca18d71315f
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 6f980e363e43a734494e8233bb5fb498, type: 3}
+    mode: 0
+  - name: Turtle Appears
+    guid: 34e5ecf2-d7c5-4bb5-853f-ab7ac9f5067d
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 1e4de2e56b35dec428ff2c3e5fa8d5a8, type: 3}
+    mode: 0
+  - name: Turtle Floating
+    guid: 85de856d-c5eb-4aa3-877d-a40b51750279
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 307fe04ada7c1fc4b81c7fc8c52d2ea2, type: 3}
+    mode: 0
+  - name: Turtle Move
+    guid: 21b17731-e4d4-4ad6-ac8a-8f5175a8eba2
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 61eba44031b7b6f459af4b270bed9d79, type: 3}
+      - {fileID: 8300000, guid: fe22e38a82f9f2842a65f4c017055484, type: 3}
+      - {fileID: 8300000, guid: 5d06e469066c6b7408f0893252991dd1, type: 3}
+      - {fileID: 8300000, guid: ba89019e65a0fa849925916fdee53b07, type: 3}
+      - {fileID: 8300000, guid: 194ab09d581bb8a45ab8c1265067ace7, type: 3}
+    mode: 0
+  - name: Reef Hit
+    guid: 030c4127-bf0e-4cd8-9fea-2ff68845a3d7
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 4ee625e937986e4469a4b667eca1b42a, type: 3}
+      - {fileID: 8300000, guid: 0a3317ba28473ec48bf5b73392e6ea2e, type: 3}
+      - {fileID: 8300000, guid: 527274d05e10a0f4593e941fde8870aa, type: 3}
+      - {fileID: 8300000, guid: db939efa67e558c4ab37f4173d2d0197, type: 3}
+      - {fileID: 8300000, guid: 6106bed05fdbfe6488c885134e2d7288, type: 3}
+    mode: 0
+  - name: Boat Crash
+    guid: 8e932ecc-1371-4cf1-81c9-793379ea0884
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 52ca3bfd1b802461fa84c564d0e4d878, type: 3}
+      - {fileID: 8300000, guid: 3f15e05941da1496b984033695d71c74, type: 3}
+    mode: 0
+  - name: Speed Boat Wake
+    guid: 485996d9-9143-4fd1-8114-ec6d8b74a7ee
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 81d2a5dc822ce410f916adef262d68ea, type: 3}
+    mode: 0
+  - name: Freighter Bounce
+    guid: 7eca4d54-e10d-4aae-96d3-a961cb8a2188
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 356935813b3a04affacb206eb118f071, type: 3}
+    mode: 0
+  - name: Birds
+    guid: 07a734aa-6074-4fcf-b8f7-bd3f9450ae46
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: f354f9fe5c7f7be41b19a4660082dd3e, type: 3}
+      - {fileID: 8300000, guid: 03b38467c74751f4faafd82deddfe5ab, type: 3}
+      - {fileID: 8300000, guid: 36f7e8340e389c94ea909b2a5c28ac12, type: 3}
+    mode: 0
+  - name: LanguageSelection
+    guid: 36943028-a90c-4dab-b20e-b2e9e706d061
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: a1e900ec58d948f46b943c84d9798dc5, type: 3}
+    mode: 0
+  - name: Gaze Timer Medium
+    guid: fcc46674-4e9c-488c-8a77-9d5e49a69176
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 29d216cfc3dd04402bd01c7d43eed526, type: 3}
+    mode: 0
+  - name: Gaze Timer Short
+    guid: 27c4c1f6-ba37-4bd2-a48d-4343c9aeafba
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: cfd4188d3b95f4ceabd0b848674cd296, type: 3}
+    mode: 0
+  - name: Gaze Timer Long
+    guid: d8112a50-e5cd-4c63-8ffe-1263d3a886c9
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 6944248d3f9d3471db315154cb6584fd, type: 3}
+    mode: 0
+  - name: Gaze Timer Full
+    guid: 0acdea1b-b8f1-4180-b737-62b22b9a4c36
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 1f325fb8707174c089b3fcfb035b59a5, type: 3}
+    mode: 0
+  - name: Gaze Timer Wrong
+    guid: bc30e367-9e8b-484e-a1ba-32b0ad0c1cff
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: d8aac5bb5f3ae43aabb8cd5adc62eaac, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Sun
+    guid: 2dfdb855-82ff-4a9e-af45-537d46b426cb
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 7622ba261a3314e0ab63d9d6624e139b, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Stars
+    guid: fb734e2d-a923-49f2-8964-7acccd190ad7
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: c7a018b9bd3af45d48a0fefdaa5e1f45, type: 3}
+      - {fileID: 8300000, guid: fffaa381484174f5a97d27c78e75dff0, type: 3}
+      - {fileID: 8300000, guid: 2577c524f5a7140749ac366baeeb7acd, type: 3}
+      - {fileID: 8300000, guid: 3c02908e3b5d849d1aba67fc61c8acd2, type: 3}
+    mode: 1
+  - name: Gaze Timer Full Star1
+    guid: 96dceab0-c6a5-4027-a47d-db3646eb1958
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: c7a018b9bd3af45d48a0fefdaa5e1f45, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Star2
+    guid: d1b210de-a2c1-4207-942d-da96788d76b0
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: fffaa381484174f5a97d27c78e75dff0, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Star3
+    guid: 24b6d836-e6c7-4b35-9cf7-6405b5adaa08
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 2577c524f5a7140749ac366baeeb7acd, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Star4
+    guid: f4d89f3f-6092-4014-b383-b841d3ab5707
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 3c02908e3b5d849d1aba67fc61c8acd2, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Cloud
+    guid: 15939e66-b5a3-4ead-8e78-e580bb2d92d3
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 3dc3bf523c1f3429daaee3dec086e2a7, type: 3}
+    mode: 0
+  - name: Gaze Timer Full Bird
+    guid: 4da8f163-1e96-48b2-b8f5-15cffbed1050
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 12771c75159114c378f104e09991fcdf, type: 3}
+    mode: 0
+  - name: Checkpoint Appears
+    guid: 8176c934-d579-4b07-b39f-1765e558b150
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: de565cd3027962e478f03c1fc97561bb, type: 3}
+    mode: 0
+  - name: Checkpoint Reached
+    guid: ffba957f-5cd7-4d12-a777-49573024630e
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 9c07d6870df4fa5448cff759aa9a5b40, type: 3}
+    mode: 0
+  - name: Checkpoint Soundscape
+    guid: 149e8677-975b-447c-bb45-a8385ae8ee62
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: e95ad1f0f082d27489288083d61b37b1, type: 3}
+    mode: 0
+  - name: Sail Flapping
+    guid: ff148ad1-74a0-40db-9dab-e737509380ad
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: f066912e02fd7244db3ff3406cb7f674, type: 3}
+    mode: 0
+  - name: Sail Slow
+    guid: ffebd9c4-c2d9-4bc6-8cdf-2d20f54ecee1
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 23b8cb749aac6e948bb640fde7ef9009, type: 3}
+    mode: 0
+  - name: Sail Fast
+    guid: 2bfaa556-2752-4a80-9315-b50a286ac9cb
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: b884f25ac79053643a419f46bf234d99, type: 3}
+    mode: 0
+  - name: Wind Day
+    guid: 4ecef7f5-8141-454d-b23f-c8dd4b01959e
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: d7d39ae1610ef264d8ef476d3f680d55, type: 3}
+    mode: 0
+  - name: Wind Night
+    guid: 9c603546-0cd8-40bf-9307-8dca76c8d49a
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 045b150f652a22145b741d5946019e66, type: 3}
+    mode: 0
+  - name: Sea Day
+    guid: cd3804ce-1be4-4225-b92c-218b9cb793bb
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: aaafd19421575d844a56c0f9f3a565a9, type: 3}
+    mode: 0
+  - name: Sea Night
+    guid: dca8e8b4-245b-4145-90de-a020f99e2578
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: e042d749d53170548893dbc6fc5fe8dc, type: 3}
+    mode: 0
+  - name: Sea Finish
+    guid: db7931b8-796f-4713-b0bf-f54cbcb9c419
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: 76ab5714ee2761f4585484e4b78199d5, type: 3}
+    mode: 0
+  - name: Sea Start
+    guid: cf061308-c878-4096-b85d-3579edc675f6
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: c135d17a4b10b9f49bb11e5933764c63, type: 3}
+    mode: 0
+  - name: End music
+    guid: ae180be2-042a-4df0-8d55-7a309d8e9a71
+    localizedAudioClips:
+    - language: -1
+      clips:
+      - {fileID: 8300000, guid: a02311a4d1f7d4108917ac626498ff81, type: 3}
+    mode: 0
+  CurrentLanguage: -1

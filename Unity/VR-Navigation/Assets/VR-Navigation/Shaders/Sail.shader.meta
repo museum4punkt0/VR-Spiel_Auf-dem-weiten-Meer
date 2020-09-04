@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5537c4b6b27b040fabe3d61a141bf8ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SteerAchievementTex: {fileID: 2800000, guid: 80ee511a5808d8d499a8ca850b8a2129,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

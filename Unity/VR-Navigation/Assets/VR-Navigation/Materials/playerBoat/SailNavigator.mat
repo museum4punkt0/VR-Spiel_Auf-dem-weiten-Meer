@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SailNavigator
+  m_Shader: {fileID: 4800000, guid: 81af5d6ece9b57b4288504129fecbe93, type: 3}
+  m_ShaderKeywords: _EMISSION _TOGGLEBIRDS_ON _TOGGLECLOUDS_ON _TOGGLESTARS_ON _TOGGLESTART_ON
+    _TOGGLESUN_ON _TOGGLETURTLE_ON _TOGGLEWAVES_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaMask:
+        m_Texture: {fileID: 2800000, guid: 9d4b5586372034f6fa4d673041b5a80c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BirdsAchievementTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CloudsAchievementTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: 18e335da4e26248919b197dd72fd32fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fade:
+        m_Texture: {fileID: 2800000, guid: d6d471dd2ff8c4e50a5479ebd694ff78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HintTurtleMask:
+        m_Texture: {fileID: 2800000, guid: e5b981d6bbe41487e97a3c261bde4328, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 18e335da4e26248919b197dd72fd32fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: 20a5d7c1b4e944297ac8d0f95e33a12c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PaintedSailClothTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ProgressMask:
+        m_Texture: {fileID: 2800000, guid: 2e5129f45ed3d437088e41e56beb245c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ProgressMaskA:
+        m_Texture: {fileID: 2800000, guid: 2e5129f45ed3d437088e41e56beb245c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ProgressMaskB:
+        m_Texture: {fileID: 2800000, guid: 2e5129f45ed3d437088e41e56beb245c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sail:
+        m_Texture: {fileID: 2800000, guid: 5622fe57909854cd899f56750aee01ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SailCloth:
+        m_Texture: {fileID: 2800000, guid: bce4463f8a56e9e4a8c3fac2931b20d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarsAchievementTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StartTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SteerAchievementTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SunAchievementTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: bf7bc8f40e5ca44b9b271f09c4d40253, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 9d4b5586372034f6fa4d673041b5a80c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 20a5d7c1b4e944297ac8d0f95e33a12c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TurtleMask:
+        m_Texture: {fileID: 2800000, guid: d1d5b90fad9d6434ea25087549745ffb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UnpaintedSailCloth:
+        m_Texture: {fileID: 2800000, guid: bce4463f8a56e9e4a8c3fac2931b20d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _UnpaintedSailClothTex:
+        m_Texture: {fileID: 2800000, guid: ea708827e41d447ac9377ead8bf46e29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Vertex:
+        m_Texture: {fileID: 2800000, guid: bf7bc8f40e5ca44b9b271f09c4d40253, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexMoveme:
+        m_Texture: {fileID: 2800000, guid: bf7bc8f40e5ca44b9b271f09c4d40253, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexMovemenM:
+        m_Texture: {fileID: 2800000, guid: bf7bc8f40e5ca44b9b271f09c4d40253, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VertexMovemenMask:
+        m_Texture: {fileID: 2800000, guid: bf7bc8f40e5ca44b9b271f09c4d40253, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BirdsAchievementVal: 0.938
+    - _BumpScale: 1
+    - _CloudsAchievementVal: 0.921
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Falloff: 0.698
+    - _Float4: 0.692
+    - _FresnelBias: -0.26
+    - _FresnelPower: 0.73
+    - _FresnelScale: 0.52
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Grap: 0.692
+    - _Graphic: 0.692
+    - _GraphicT: 0.692
+    - _GraphicTran: 0.692
+    - _GraphicTrans: 0.692
+    - _GraphicTransparancy: 0.692
+    - _GraphicTransparancyVal: 0.314
+    - _InflateVal: -0.67
+    - _MaskAxis: 1
+    - _MaskMax: 1
+    - _MaskMin: 0
+    - _MaskType: 0
+    - _MaskTypee: 0
+    - _MaskTypeeEnd: 0
+    - _MatcapBlendVal: 1
+    - _MaxTra: 0.692
+    - _MaxTransparencyV: 0.692
+    - _MaxTransparencyVAl: 0.692
+    - _MaxTransparencyVal: 0.821
+    - _Metallic: 0
+    - _MinNew: 0.271
+    - _MinTransparency: 0.087
+    - _MinTransparencyVal: 0.233
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ProgressA: 1
+    - _ProgressB: 1
+    - _QuickMaskk: 0
+    - _SailMovement: 0
+    - _ScaleDivider: -0.99
+    - _ShadowOffset: 0.69
+    - _ShadowSharpness: 0.51
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _StarsAchievementVal: 0.93
+    - _StartTurtleVal: 0
+    - _SteerAchievementVal: 0
+    - _SunAchievementVal: 0.934
+    - _ToggleBirds: 1
+    - _ToggleCloud: 0
+    - _ToggleClouds: 1
+    - _ToggleS: 0
+    - _ToggleStars: 1
+    - _ToggleStart: 1
+    - _ToggleSteer: 0
+    - _ToggleSun: 1
+    - _ToggleSunu: 0
+    - _ToggleSwitch0: 0
+    - _ToggleSwitch1: 0
+    - _ToggleTurtle: 1
+    - _ToggleWav: 0
+    - _ToggleWavee: 0
+    - _ToggleWaves: 1
+    - _Transparency: 0.765
+    - _Turtle: 1
+    - _TurtleVisibi: 1
+    - _TurtleVisibility: 1
+    - _TurtleVisibilityVal: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    - _gSailMovement: 0
+    - _offset_multiplier: 0.343
+    - _vAmpVal: 0.098
+    - _vScaleVal: 12.8
+    - _vSpeedVal: 3
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelCol: {r: 0.99056596, g: 0.5747152, b: 0.5747152, a: 0}
+    - _LightCol: {r: 0.8490566, g: 0.7596954, b: 0.6448024, a: 0}
+    - _SailCol: {r: 0.8396226, g: 0.47515702, b: 0.32871968, a: 0}
+    - _ShadowCol: {r: 0.509434, g: 0.29214618, b: 0.08410466, a: 0}
+    - _TurtleCol: {r: 0.8113208, g: 0.41714135, b: 0.41714135, a: 0}
