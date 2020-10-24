@@ -1,5 +1,5 @@
 # Ena wasawasa levu. Auf dem weiten Meer
-(en: Ena wasawasa levu. On the Open Sea)
+(en: Ena wasawasa levu. On the Open Sea) 
 
 A VR project of the Staatliche Museen zu Berlin - Preußischer Kulturbesitz in the context of museum4punkt0 for the Ethnological Museum of Berlin in the Humboldt Forum.
 
