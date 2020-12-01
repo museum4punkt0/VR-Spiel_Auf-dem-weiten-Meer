@@ -298,7 +298,7 @@ Design and Programming: IJsfontein
 
 MIT License
 
-Copyright © 2020, museum4punkt0 / Wegesrand Interactive GmbH in co-operation with IJsfontein BV  
+Copyright © 2020, museum4punkt0 - Staatliche Museen zu Berlin / Wegesrand Interactive GmbH in co-operation with IJsfontein BV  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
